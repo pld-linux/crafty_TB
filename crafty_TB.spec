@@ -8,7 +8,9 @@ License:	GPL
 Group:		Applications/Games
 Icon:		xchess.gif
 Source0:	ftp://ftp.cis.uab.edu/pub/hyatt/TB/four/kbnk.nbb.emd
+# Source0-md5:	891e2e92ec49c72973a6456e71b02459
 Source1:	ftp://ftp.cis.uab.edu/pub/hyatt/TB/four/kbnk.nbw.emd
+# Source1-md5:	19d67aeba1329762a5a076917b5b7f61
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
