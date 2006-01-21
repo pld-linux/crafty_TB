@@ -9,7 +9,6 @@ Source0:	ftp://ftp.cis.uab.edu/pub/hyatt/TB/31/kbnk.nbb.emd
 # Source0-md5:	891e2e92ec49c72973a6456e71b02459
 Source1:	ftp://ftp.cis.uab.edu/pub/hyatt/TB/31/kbnk.nbw.emd
 # Source1-md5:	19d67aeba1329762a5a076917b5b7f61
-Icon:		xchess.gif
 Requires:	crafty
 Obsoletes:	crafty_tablebase
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
