@@ -1,5 +1,5 @@
 Summary:	Tablebases for Crafty
-Summary(pl):	Bazy danych dla Crafty
+Summary(pl.UTF-8):   Bazy danych dla Crafty
 Name:		crafty_TB
 Version:	2.0
 Release:	3
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Selected endgame tablebases for Crafty.
 
-%description -l pl
-Baza danych wybranych zakoñczeñ gry dla Crafty.
+%description -l pl.UTF-8
+Baza danych wybranych zakoÅ„czeÅ„ gry dla Crafty.
 
 %prep
 
