@@ -1,5 +1,5 @@
 Summary:	Tablebases for Crafty
-Summary(pl.UTF-8):   Bazy danych dla Crafty
+Summary(pl.UTF-8):	Bazy danych dla Crafty
 Name:		crafty_TB
 Version:	2.0
 Release:	3
